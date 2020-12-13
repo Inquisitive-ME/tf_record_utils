@@ -1,0 +1,3 @@
+[submodule "tf_oda_stanford_cars"]
+	path = tf_oda_stanford_cars
+	url = git@github.com:Inquisitive-ME/tf_oda_stanford_cars.git
